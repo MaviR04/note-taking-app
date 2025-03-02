@@ -4,4 +4,10 @@
 @theme{
   --font-inter:"Inter";
   --font-poppins:"poppins";
+
+  --color-backdark-100:oklch(14.43% 0 0);
+}
+
+[contenteditable] {
+  outline: 0px solid transparent;
 }
